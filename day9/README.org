@@ -1,6 +1,7 @@
-* Day 9: Disk Fragmenter
+#+title: Day 9: Disk Fragmenter
+#+author: José Santos L.
 
-** part 1
+* part 1
 
 Another push of the button leaves you in the familiar hallways of some friendly amphipods! Good thing you each somehow got your own personal mini submarine. The Historians jet away in search of the Chief, mostly by driving directly into walls.
 
