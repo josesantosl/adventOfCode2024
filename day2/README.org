@@ -133,5 +133,4 @@ part2 = do
   putStrLn (show counter)
 #+end_src
 
-#+RESULTS: 
 : 296
