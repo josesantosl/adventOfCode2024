@@ -88,10 +88,8 @@ for i in range(25):
     stones = temp
 
 print(len(stones))
-# 199986
 #+end_src
 
-#+RESULTS:
 : 199986
 
 * Part 2
@@ -120,5 +118,4 @@ print(sum(stoneRules(stone,0,1)for stone in stones))
 # 55312
 #+end_src
 
-#+RESULTS:
 : 55312
